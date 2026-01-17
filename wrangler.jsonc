@@ -17,6 +17,12 @@
 			"database_id": "a6d0a8b0-b356-43a9-890a-d899b0ec4ebd",
 		},
 	],
+	"r2_buckets": [
+		{
+			"binding": "IMAGES",
+			"bucket_name": "real-or-ai-images",
+		},
+	],
 	/**
 	 * Smart Placement
 	 * https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
